@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://polar-taiga-52256.herokuapp.com/journeybuilder/execute",
+          "url": "https://genericcustomactivitytest.herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -33,22 +33,22 @@
     "configurationArguments": {
       "applicationExtensionKey": "c1f688c1-1d99-43db-8706-b3e501b3ca16",
       "save": {
-        "url": "https://polar-taiga-52256.herokuapp.com/journeybuilder/save",
+        "url": "https://genericcustomactivitytest.herokuapp.com/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://polar-taiga-52256.herokuapp.com/journeybuilder/publish",
+        "url": "https://genericcustomactivitytest.herokuapp.com/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://polar-taiga-52256.herokuapp.com/journeybuilder/stop",
+        "url": "https://genericcustomactivitytest.herokuapp.com/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://polar-taiga-52256.herokuapp.com/journeybuilder/validate",
+        "url": "https://genericcustomactivitytest.herokuapp.com/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
